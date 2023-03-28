@@ -1,4 +1,4 @@
-package com.optic.manda2.activities.client.home;
+package com.optic.deliverymanda2.activities.client.home;
 
 import android.app.Activity;
 
