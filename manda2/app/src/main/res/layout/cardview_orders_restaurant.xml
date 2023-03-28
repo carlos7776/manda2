@@ -8,6 +8,7 @@
     android:layout_marginTop="10dp"
     android:layout_marginLeft="10dp"
     app:cardCornerRadius="10dp"
+    app:cardBackgroundColor="@color/green"
     >
 
     <LinearLayout
@@ -24,7 +25,9 @@
             android:textSize="17sp"
             android:textStyle="bold"
             android:padding="5dp"
-            android:textAlignment="center" />
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:fontFamily="@font/ubuntu_regular"/>
 
         <LinearLayout
             android:layout_width="match_parent"

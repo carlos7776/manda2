@@ -33,8 +33,11 @@
             android:gravity="center"
             android:textStyle="bold"
             android:textSize="17sp"
-            android:fontFamily="@font/roboto_regular" />
+            android:fontFamily="@font/ubuntu_regular" />
+
+
 
     </FrameLayout>
+
 
 </androidx.cardview.widget.CardView>

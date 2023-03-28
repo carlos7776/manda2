@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".activities.client.update.ClientUpdateActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_prueba_1"
+        android:scaleType="centerCrop"/>
+
     <include layout="@layout/action_bar" />
 
     <LinearLayout

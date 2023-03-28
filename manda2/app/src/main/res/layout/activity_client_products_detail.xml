@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".activities.client.products.detail.ClientProductsDetailActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_prueba_1"
+        android:scaleType="centerCrop"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -28,7 +34,8 @@
             android:textColor="@color/black"
             android:layout_marginLeft="25dp"
             android:layout_marginRight="25dp"
-            android:layout_marginTop="15dp" />
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/ubuntu_regular"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -38,7 +45,8 @@
             android:textColor="@color/black"
             android:layout_marginLeft="25dp"
             android:layout_marginRight="25dp"
-            android:layout_marginTop="35dp" />
+            android:layout_marginTop="35dp"
+            android:fontFamily="@font/ubuntu_regular"/>
 
         <TextView
             android:id="@+id/textview_description"

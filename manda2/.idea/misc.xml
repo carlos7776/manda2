@@ -10,6 +10,37 @@
         <entry key="..\:/Users/AUTOCAD/Desktop/DeliveryKotlinUdemy-master/app/src/main/res/layout/activity_register.xml" value="0.3625" />
         <entry key="..\:/Users/AUTOCAD/Desktop/DeliveryKotlinUdemy-master/app/src/main/res/layout/activity_restaurant_home.xml" value="0.3625" />
         <entry key="..\:/Users/AUTOCAD/Desktop/DeliveryKotlinUdemy-master/app/src/main/res/layout/fragment_client_profile.xml" value="0.3625" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/drawable/ic_email_gray.xml" value="0.1665" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.225" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/drawable/ic_person_pin_gray.xml" value="0.1665" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/drawable/ic_phone_gray.xml" value="0.1665" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_client_address_create.xml" value="0.5" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_client_address_map.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_client_orders_map.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_delivery_home.xml" value="0.1" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_delivery_orders_detail.xml" value="0.33" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_delivery_orders_map.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_restaurant_orders_detail.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/activity_select_roles.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/cardview_address.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/cardview_categories.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/cardview_order_products.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/cardview_orders.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/cardview_orders_restaurant.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/cardview_product.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/cardview_roles.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/cardview_shopping_bag.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_client_categories.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_client_orders.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_client_orders_status.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_client_profile.xml" value="0.1" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_delivery_orders.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_delivery_orders_status.xml" value="0.2517482517482518" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_restaurant_category.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_restaurant_orders.xml" value="0.2517482517482518" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_restaurant_orders_status.xml" value="0.22727272727272727" />
+        <entry key="..\:/Users/AUTOCAD/Desktop/manda2/manda2/app/src/main/res/layout/fragment_restaurant_product.xml" value="0.264945652173913" />
         <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/DeliveryKotlinUdemy/app/src/main/res/drawable/card_radius.xml" value="0.23125" />
         <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/DeliveryKotlinUdemy/app/src/main/res/drawable/edittext_custom.xml" value="0.23125" />
         <entry key="..\:/Users/Jonathan/Documents/PROGRAMACION/DeliveryKotlinUdemy/app/src/main/res/drawable/ic_check.xml" value="0.23125" />

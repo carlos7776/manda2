@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".activities.client.home.ClientHomeActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_prueba_1"
+        android:scaleType="centerCrop"/>
+
     <FrameLayout
         android:id="@+id/container"
         android:layout_width="match_parent"
@@ -17,9 +23,9 @@
             android:layout_height="wrap_content"
             app:menu="@menu/bottom_navigation_menu_client"
             android:layout_gravity="bottom"
-            android:background="@color/white"
-            app:itemIconTint="@color/black"
-            app:itemTextColor="@color/black"/>
+            android:background="@color/green"
+            app:itemIconTint="@color/white"
+            app:itemTextColor="@color/white"/>
 
 
     </FrameLayout>

@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".activities.client.address.list.ClientAddressListActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_prueba_1"
+        android:scaleType="centerCrop"/>
+
     <include layout="@layout/action_bar" />
 
     <LinearLayout
@@ -42,7 +48,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:layout_gravity="bottom"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:layout_marginBottom="25dp"
         android:background="@drawable/rounded_button"/>
 

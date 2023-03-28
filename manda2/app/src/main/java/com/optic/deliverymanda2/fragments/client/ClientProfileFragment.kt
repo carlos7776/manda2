@@ -43,7 +43,7 @@ class ClientProfileFragment : Fragment() {
 
         sharedPref = SharedPref(requireActivity())
 
-
+        buttonSelectRol = myView?.findViewById(R.id.btn_select_rol)
         buttonUpdateProfile = myView?.findViewById(R.id.btn_update_profile)
         textViewName = myView?.findViewById(R.id.textview_name)
         textViewEmail = myView?.findViewById(R.id.textview_email)
@@ -51,7 +51,7 @@ class ClientProfileFragment : Fragment() {
         circleImageUser = myView?.findViewById(R.id.circleimage_user)
         imageViewLogout = myView?.findViewById(R.id.imageview_logout)
 
-       
+        buttonSelectRol?.setOnClickListener { goToSelectRol() }
         imageViewLogout?.setOnClickListener { logout() }
         buttonUpdateProfile?.setOnClickListener { goToUpdate() }
 
@@ -90,6 +90,10 @@ class ClientProfileFragment : Fragment() {
         startActivity(i)
     }
 
-
+    private fun goToSelectRol() {
+        val i = Intent(requireContext(), SelectRolesActivity::class.java)
+        i.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK // Eliminar el historial de pantallas
+        startActivity(i)
+    }
 
 }

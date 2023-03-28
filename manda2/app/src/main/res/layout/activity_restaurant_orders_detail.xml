@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     >
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_prueba_1"
+        android:scaleType="centerCrop"/>
+
     <include layout="@layout/action_bar" />
 
     <LinearLayout
@@ -49,7 +55,9 @@
                 android:id="@+id/textview_client"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Nombre del cliente" />
+                android:text="Nombre del cliente"
+                android:fontFamily="@font/ubuntu_regular"
+                android:textColor="@color/black"/>
 
         </LinearLayout>
 
@@ -73,7 +81,9 @@
                 android:id="@+id/textview_address"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Direccion de entrega" />
+                android:text="Direccion de entrega"
+                android:fontFamily="@font/ubuntu_regular"
+                android:textColor="@color/black"/>
 
         </LinearLayout>
 
@@ -97,7 +107,9 @@
                 android:id="@+id/textview_date"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="00:00:00" />
+                android:text="00:00:00"
+                android:fontFamily="@font/ubuntu_regular"
+                android:textColor="@color/black"/>
 
         </LinearLayout>
 
@@ -120,8 +132,10 @@
             <TextView
                 android:id="@+id/textview_status"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Estado" />
+                android:layout_height="23dp"
+                android:fontFamily="@font/ubuntu_regular"
+                android:text="Estado"
+                android:textColor="@color/black" />
 
         </LinearLayout>
 

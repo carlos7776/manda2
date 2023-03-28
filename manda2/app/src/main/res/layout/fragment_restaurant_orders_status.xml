@@ -5,9 +5,18 @@
     android:layout_height="match_parent"
     >
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_prueba_1"
+        android:scaleType="centerCrop"/>
+
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerview_orders"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+
+        />
 
 </FrameLayout>

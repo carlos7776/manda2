@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".activities.RegisterActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg_prueba_1"
+        android:scaleType="centerCrop"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -18,7 +24,8 @@
             android:textSize="50dp"
             android:layout_marginTop="60dp"
             android:layout_marginLeft="25dp"
-            android:fontFamily="@font/indigo_daisy"
+            android:fontFamily="@font/kanit_semibold"
+            android:textColor="@color/black"
             />
 
         <TextView
@@ -27,7 +34,9 @@
             android:text="Completa estos datos"
             android:layout_marginLeft="25dp"
             android:layout_marginTop="5dp"
-            android:fontFamily="@font/roboto_regular" />
+            android:fontFamily="@font/ubuntu_regular"
+            android:textColor="@color/gray"
+            android:textSize="20dp"/>
 
         <EditText
             android:id="@+id/edittext_name"
@@ -122,7 +131,7 @@
             android:text="Registrarse"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:background="@drawable/rounded_button"/>
 
         <ImageView
